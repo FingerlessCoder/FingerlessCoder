@@ -1,4 +1,4 @@
-### Hi there, I'm Tay Wilson! 👋
+### Hi there, I'm FingerlessCoder! 👋
 
 - 🔭 I’m currently studying IT.
 - 🌱 I’m learning programming languages like C, Java, Python, and web development technologies like HTML, CSS, JavaScript.
@@ -18,6 +18,6 @@
 - **Design Tools:** Adobe Photoshop, Figma, draw.io
 
 <!---
-Tay-Wilson/Tay-Wilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FingerlessCoder/FingerlessCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
